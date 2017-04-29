@@ -245,3 +245,7 @@ label, input, select {
 	opacity: 0.5;
 	visibility: hidden;
 }
+
+#table td {
+	white-space: nowrap;
+}
